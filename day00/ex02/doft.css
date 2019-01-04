@@ -91,10 +91,20 @@ div.right{
 	background-color: #88ff89;
 	text-align: left;
 }
+
 p{
 	position: relative;
 }
-.words-text{
+
+.words-bottom{
+}
+
+.word-middle{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.words-top{
 	position: relative;
 	overflow: auto;
 }
